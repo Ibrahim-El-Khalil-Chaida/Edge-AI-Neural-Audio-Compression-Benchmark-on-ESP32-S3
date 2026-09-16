@@ -104,6 +104,13 @@ python python/benchmark.py --wav data/wav/your_test_file.wav
 * [ ] ESP32-S3 TFLite Micro C++ integration
 * [ ] On-device hardware latency/cycle measurement
 
+
+## License
+See the [LICENSE](LICENSE) file for details. 
+
+Dataset recordings remain subject to their original licenses and should not be redistributed through this repository unless permitted.
+
+
 ## 👨‍💻 Author
 
 **Chaida Ibrahim El Khalil**
